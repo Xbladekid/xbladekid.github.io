@@ -1,0 +1,21 @@
+{
+    "confirmados": {
+    "valor": 505
+    
+    },
+    "negativos": {
+    "valor": 932
+    
+    },
+    "sospechosos": {
+    "valor": 780
+    },
+    "defunciones": {
+        "valor": 31
+    },
+    "actualizacion": {
+        "fecha": "2020-04-16"
+    }
+}
+    
+    
